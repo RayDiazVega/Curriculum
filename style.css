@@ -210,13 +210,13 @@ section:last-child {
 	}
 }
 
-#progressbar {
+.progressbar {
   background-color: black;
   border-radius: 13px;
   padding: 3px;
 }
 
-#progressbar div {
+.progressbar div {
   background-color: red;
   text-align: center;
   height: 20px;
